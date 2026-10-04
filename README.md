@@ -46,3 +46,9 @@ Restarted `wazuh-agentd` and verified status using:
 ```bash
 sudo grep ^status /var/ossec/var/run/wazuh-agentd.state
 # Output: status='connected'
+
+<img width="2730" height="1428" alt="dashboard-active-agents" src="https://github.com/user-attachments/assets/0f162cbc-64ad-4482-960d-d3cb3c4fbe52" />
+
+🔒 Key Skills Demonstrated
+SIEM Deployment • Wazuh • Linux Administration • Windows Security • Network Diagnostics (nc, ss) • Firewall Configuration (UFW) • Symmetric Key Exchange • Log Ingestion & Endpoint Security
+
