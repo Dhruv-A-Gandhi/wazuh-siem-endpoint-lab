@@ -47,8 +47,18 @@ Restarted `wazuh-agentd` and verified status using:
 sudo grep ^status /var/ossec/var/run/wazuh-agentd.state
 # Output: status='connected'
 
-<img width="2730" height="1428" alt="dashboard-active-agents" src="https://github.com/user-attachments/assets/0f162cbc-64ad-4482-960d-d3cb3c4fbe52" />
+## 📊 Verification & Screenshots
 
-🔒 Key Skills Demonstrated
-SIEM Deployment • Wazuh • Linux Administration • Windows Security • Network Diagnostics (nc, ss) • Firewall Configuration (UFW) • Symmetric Key Exchange • Log Ingestion & Endpoint Security
+![Wazuh Dashboard Active Agents](./dashboard-active-agents.png)  
+*Figure 1: Wazuh Dashboard showing Windows 10 Pro and Ubuntu Desktop endpoints in active status.*
 
+---
+
+## 🔒 Key Skills Demonstrated
+* **SIEM Deployment & Management** (Wazuh Manager & Agents)
+* **Linux Administration** (Ubuntu 26.04 LTS, Systemd)
+* **Windows Endpoint Security** (Windows 10 Pro/Home)
+* **Network Diagnostics** (`nc`, `ss`, Port Auditing on 1514/1515)
+* **Firewall Engineering** (`UFW`, `firewalld`)
+* **Cryptographic Identity Management** (Symmetric Key Exchange via `manage_agents`)
+* **Telemetry Ingestion & Endpoint Monitoring**
